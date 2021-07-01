@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+- 🌱 Self-taught student on the web
+- 🤓 Css, Html, JS and Ruby noob
+
+
+[
+ [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
+ 
+ [TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação  ruby
+ 
+ [42spBaseCamp](https://www.42sp.org.br/)  --> Introdução a ingeneria de software com c e shell
+ 
+ [Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução a JavaScript
+ 
+]
+
 <!--
 **angelasoler/angelasoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
