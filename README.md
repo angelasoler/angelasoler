@@ -9,6 +9,8 @@
 
 [MDN Web Docs Moz://a](https://developer.mozilla.org/) --> Web Development Documentation
 
+[W3Schools](https://www.w3schools.com/) --> Tutorial, Reference and exercises
+
 [DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md)
 
 [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
