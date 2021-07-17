@@ -7,16 +7,18 @@
 
 
 
+[MDN Web Docs Moz://a](https://developer.mozilla.org/)
 
 [DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md)
 
- [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
+[Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
  
- [TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação  Ruby
+[TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação  Ruby
  
- [42spBaseCamp](https://www.42sp.org.br/)  --> Introdução a ingeneria de software com C e Shell
+[42spBaseCamp](https://www.42sp.org.br/)  --> Introdução a ingeneria de software com C e Shell
  
- [Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução a JavaScript
+[Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução a JavaScript
+ 
  
 
 
