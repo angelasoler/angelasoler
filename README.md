@@ -5,7 +5,7 @@
 - 🤓 Css, Html, JS and Ruby noob
 
 
-
+https://guides.rubyonrails.org/
 
 [MDN Web Docs Moz://a](https://developer.mozilla.org/) --> Web Development Documentation
 
@@ -15,7 +15,7 @@
 
 [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
  
-[TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação  Ruby
+[TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação com Ruby, aplicações web com Ruby On Rails
  
 [42spBaseCamp](https://www.42sp.org.br/)  --> Introdução a ingeneria de software com C e Shell
  
