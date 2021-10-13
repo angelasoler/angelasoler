@@ -2,7 +2,7 @@
 
 
 - 🌱 Self-taught student around the web
-- 🤓 Css, Html, JS and Ruby noob
+- 🤓 Css, Html, JS and Ruby and Ruby On Rails noob
 
 
 https://guides.rubyonrails.org/
