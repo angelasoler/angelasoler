@@ -1,14 +1,18 @@
 ### Hi there 👋
 
 
-- 🌱 Campus Coder -> Treina Dev 7
-- 🤓 Css, Html, JS and Ruby and Ruby On Rails noob
+- 🌱 Campus Coder
+  - Treina Dev 7
+     [Projeto Final Equipe Streme Alpha](https://github.com/TreinaDev/stream-alpha)
+      Ruby and Ruby On Rails 
+     
+- 🤓 Css, Html, JS noob
 
 links uteis: 
 
 https://guides.rubyonrails.org/
 
-[TreinaDev](https://treinadev.com.br/trilhas) --> Logica de programação com Ruby, aplicações web com Ruby On Rails
+[TreinaDev](https://treinadev.com.br/) --> Logica de programação com Ruby, aplicações web com Ruby On Rails
 
 [MDN Web Docs Moz://a](https://developer.mozilla.org/) --> Web Development Documentation
 
