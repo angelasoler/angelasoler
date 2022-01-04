@@ -5,6 +5,7 @@
   - Treina Dev 7 (Ruby On Rails)
  
      [Projeto Final Equipe Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Plataforma de streaming
+     
      [Projeto individual](https://github.com/angelasoler/Tech_Freelance_Project) -> Plataforma de trabalho freelance
        
      
@@ -20,13 +21,13 @@ https://guides.rubyonrails.org/
 
 [W3Schools](https://www.w3schools.com/) --> Tutorial, Reference and exercises
 
-[DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md) --> Textos para estudar ciencias da computação
+[DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md) --> Guia de textos para estudar ciencias da computação
 
 [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
  
-[42spBaseCamp](https://www.42sp.org.br/)  --> Introdução a engenharia de software com C e Shell
+[42spBaseCamp](https://www.42sp.org.br/)  --> Introdução á engenharia de software com C e Shell
  
-[Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução a JavaScript
+[Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução á JavaScript
  
  
 
