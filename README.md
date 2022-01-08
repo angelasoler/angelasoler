@@ -27,7 +27,7 @@ https://guides.rubyonrails.org/
  
 [42spBaseCamp](https://www.42sp.org.br/)  --> Introdução á engenharia de software com C e Shell
 
-[FreeCodeCamp]https://www.freecodecamp.org/ --> cursos e tutoriales para aprender a programar de graça
+[FreeCodeCamp](https://www.freecodecamp.org/) --> Cursos e tutoriales para aprender a programar de graça
  
  
 
