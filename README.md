@@ -26,8 +26,8 @@ https://guides.rubyonrails.org/
 [Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
  
 [42spBaseCamp](https://www.42sp.org.br/)  --> Introdução á engenharia de software com C e Shell
- 
-[Trybe](https://freecourse.betrybe.com/introducao-ao-javascript/parte-4/) --> Introdução á JavaScript
+
+[FreeCodeCamp]https://www.freecodecamp.org/ --> cursos e tutoriales para aprender a programar de graça
  
  
 
