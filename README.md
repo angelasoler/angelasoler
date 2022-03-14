@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+- 🌱 Cadete na escola 42 sp
+  - Engenharia de Software
+ 
+    [Listas em Shell e C desenvolvidas no 42BaseCamp (processo seletivo)](https://github.com/angelasoler/BaseCamp42-2022)
 
-- 🌱 Campus Coder
-  - Treina Dev 7 (Ruby On Rails)
+- Campus Coder
+  - Treina Dev 7 (Ruby On Rails Back-end bootcamp)
  
      [Projeto Final Equipe Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Plataforma de streaming
      
