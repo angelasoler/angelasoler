@@ -1,37 +1,37 @@
-### Hi there 👋
+### Hi there 👋 
+
+:recycle:
+   Learning is not a linear path, that's why here, through my gihub account(repos and commits history), you would be able to follow my growth as a software developer.
 
 - 🌱 Cadete na escola 42 sp
-  - Engenharia de Software
- 
-    [Listas em Shell e C desenvolvidas no 42BaseCamp (processo seletivo)](https://github.com/angelasoler/BaseCamp42-2022)
+  - Software engineering
+
+
+	:desktop_computer: Projects
+      
+       [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded)
+       
+       
+       [libft](https://github.com/angelasoler/Libft)
+
+  - :atom: Basecamp 2022 
+    [Shell and C lists developed in 42BaseCamp (Seletive processe)](https://github.com/angelasoler/BaseCamp42-2022)
 
 - Campus Coder
   - Treina Dev 7 (Ruby On Rails Back-end bootcamp)
  
-     [Projeto Final Equipe Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Plataforma de streaming
+     [Team Final Project Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Streaming Platform
      
-     [Projeto individual](https://github.com/angelasoler/Tech_Freelance_Project) -> Plataforma de trabalho freelance
+     [Personal Projetol](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
        
      
-- 🤓 Css, Html, JS noob
-
-links uteis: 
+⚡Links for self taught education: 
 
 https://guides.rubyonrails.org/
 
-[TreinaDev](https://treinadev.com.br/) --> Logica de programação com Ruby, aplicações web e REST API com Ruby On Rails
+[DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md) --> Guide for CS studies
 
-[MDN Web Docs Moz://a](https://developer.mozilla.org/) --> Web Development Documentation
-
-[W3Schools](https://www.w3schools.com/) --> Tutorial, Reference and exercises
-
-[DYS Computer Science](https://github.com/jamesleeat/TeachYourselfCS-ES/blob/main/TeachYourselfCS-ES.md) --> Guia de textos para estudar ciencias da computação
-
-[Platzi](https://platzi.com/clases/programacion-basica/) --> Curso de programación basica JS,html, css
- 
-[42spBaseCamp](https://www.42sp.org.br/)  --> Introdução á engenharia de software com C e Shell
-
-[FreeCodeCamp](https://www.freecodecamp.org/) --> Cursos e tutoriales para aprender a programar de graça
+[FreeCodeCamp](https://www.freecodecamp.org/) --> Free courses and tutorials
  
  
 
