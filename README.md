@@ -7,22 +7,24 @@
   - Software engineering
 
 
-	:desktop_computer: Projects
-      
-       [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded)
+	:desktop_computer: Projects:
+            
+       => [libft](https://github.com/angelasoler/Libft) -> Own library funtion
        
-       
-       [libft](https://github.com/angelasoler/Libft)
+       => [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded) -> Recompilation of mandatory subjects necessaries to start 42 cursus
 
-  - :atom: Basecamp 2022 
-    [Shell and C lists developed in 42BaseCamp (Seletive processe)](https://github.com/angelasoler/BaseCamp42-2022)
+  - :atom: Basecamp 2022
+ 
+    => [Shell and C lists developed in 42BaseCamp (Selection process)](https://github.com/angelasoler/BaseCamp42-2022) -> c Intro
 
 - Campus Coder
   - Treina Dev 7 (Ruby On Rails Back-end bootcamp)
+  
+	:desktop_computer: Projects:
  
-     [Team Final Project Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Streaming Platform
+     ==> [Final Team Project Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Streaming Platform
      
-     [Personal Projetol](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
+     ==> [Personal Projetol](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
        
      
 ⚡Links for self taught education: 
