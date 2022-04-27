@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 :recycle:
-   Learning is not a linear path, that's why here, through my github account (repos and commits history), you would be able to follow my growth as a software developer.
+   Learning is not a linear path, that's why here, through my github account (repos and commits history), you can be able to follow my growth as a software developer.
 
 - 🌱 Cadete na escola 42 sp
   - Software engineering
