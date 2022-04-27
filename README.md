@@ -9,7 +9,7 @@
 
 	:desktop_computer: Projects:
             
-       => [libft](https://github.com/angelasoler/Libft) -> Own library funtion
+       => [libft](https://github.com/angelasoler/Libft) -> Own library functions
        
        => [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded) -> Recompilation of mandatory subjects necessaries to start 42 cursus
 
