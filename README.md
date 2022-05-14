@@ -67,9 +67,9 @@ Treina Dev 7 (Back-end TDD base on bootcamp)
 :desktop_computer: Projects
 </h3>
  
-   ==> [Final Team Project Streme Alpha](https://github.com/TreinaDev/stream-alpha) -> Streaming Platform
+   ==> [Final Stream Team Project](https://github.com/TreinaDev/stream-alpha) -> Streaming Platform
      
-   ==> [Personal Projetol](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
+   ==> [Personal Project](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
        
 <h2>
 	⚡Some interesting links for self taught education
