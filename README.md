@@ -34,6 +34,10 @@
 
   => [libft](https://github.com/angelasoler/Libft) -> Own library functions
        
+  => [GNL](https://github.com/angelasoler/GNL) -> read file line by line
+  
+  => [ft_printf](https://github.com/angelasoler/ft_printf) ->  Recode the printf function from libc for own use
+  
   => [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded) -> Recompilation of mandatory subjects necessaries to start 42 cursus
 
 
