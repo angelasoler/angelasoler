@@ -34,12 +34,18 @@
 
   => [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded) -> Recompilation of mandatory subjects necessaries to start 42 cursus
 
-  => [libft](https://github.com/angelasoler/Libft) -> Own library functions
+  => [Libft](https://github.com/angelasoler/Libft) -> Own library functions
        
   => [GNL](https://github.com/angelasoler/GNL) -> read file line by line
   
-  => [ft_printf](https://github.com/angelasoler/ft_printf) ->  Recode the printf function from libc for own use
-
+  => [ft printf](https://github.com/angelasoler/ft_printf) ->  Recode the printf function from libc for own use
+  
+  => [Born 2 Be Root](https://github.com/angelasoler/Born2BRoot) ->  basics concepts of linux file system for server configurations
+  
+  => [So Long](https://github.com/angelasoler/So-long) ->  2d game using x window system
+  
+  => [Pipes](https://github.com/angelasoler/pipex) -> comunication a manipulition of shell proccesses in c program
+  
 <h2>	
   :atom: 42Basecamp 2022
 </h2>
