@@ -44,7 +44,7 @@
   
   => [So Long](https://github.com/angelasoler/So-long) ->  2d game using x window system
   
-  => [Pipex](https://github.com/angelasoler/pipex) -> Comunication a manipulation of shell proccesses into c program
+  => [Pipex](https://github.com/angelasoler/pipex) -> Comunication and manipulation of shell proccesses into c program
   
 <h2>	
   :atom: 42Basecamp 2022
