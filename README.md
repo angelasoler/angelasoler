@@ -36,15 +36,15 @@
 
   => [Libft](https://github.com/angelasoler/Libft) -> Own library functions
        
-  => [GNL](https://github.com/angelasoler/GNL) -> read file line by line
+  => [GNL](https://github.com/angelasoler/GNL) -> Read file line by line
   
   => [ft printf](https://github.com/angelasoler/ft_printf) ->  Recode the printf function from libc for own use
   
-  => [Born 2 Be Root](https://github.com/angelasoler/Born2BRoot) ->  basics concepts of linux file system for server configurations
+  => [Born 2 Be Root](https://github.com/angelasoler/Born2BRoot) ->  Basics concepts of linux file system for server configurations
   
   => [So Long](https://github.com/angelasoler/So-long) ->  2d game using x window system
   
-  => [Pipes](https://github.com/angelasoler/pipex) -> comunication a manipulition of shell proccesses in c program
+  => [Pipex](https://github.com/angelasoler/pipex) -> Comunication a manipulation of shell proccesses into c program
   
 <h2>	
   :atom: 42Basecamp 2022
