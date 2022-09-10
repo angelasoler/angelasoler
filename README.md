@@ -32,19 +32,37 @@
 :desktop_computer: Projects
 </h3>
 
-  => [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded) -> Recompilation of mandatory subjects necessaries to start 42 cursus
+ [Basecamp reloaded](https://github.com/angelasoler/Basecamp-Reloaded)
 
-  => [Libft](https://github.com/angelasoler/Libft) -> Own library functions
+	-> Recompilation of mandatory subjects necessaries to start 42 cursus
+
+ [Libft](https://github.com/angelasoler/Libft)
+  	
+	-> Own library functions
        
-  => [GNL](https://github.com/angelasoler/GNL) -> Read file line by line
+ [GNL](https://github.com/angelasoler/GNL)
+ 	
+	-> Read file line by line
   
-  => [ft printf](https://github.com/angelasoler/ft_printf) ->  Recode the printf function from libc for own use
+  [ft printf](https://github.com/angelasoler/ft_printf)
   
-  => [Born 2 Be Root](https://github.com/angelasoler/Born2BRoot) ->  Basics concepts of linux file system for server configurations
+  	->  Recode the printf function from libc for own use
   
-  => [So Long](https://github.com/angelasoler/So-long) ->  2d game using x window system
+  [Born 2 Be Root](https://github.com/angelasoler/Born2BRoot) 
+  	
+	->  Basics concepts of linux file system for server configurations
   
-  => [Pipex](https://github.com/angelasoler/pipex) -> Comunication and manipulation of shell proccesses into c program
+  [So Long](https://github.com/angelasoler/So-long)
+  
+  	->  2d game using x window system
+  
+  [Pipex](https://github.com/angelasoler/pipex) 
+  
+  	-> Comunication and manipulation of shell proccesses into c program
+  
+  [Push_swap](https://github.com/angelasoler/push_swap.git)
+  	
+	-> Sorting algorithms 
   
 <h2>	
   :atom: 42Basecamp 2022
