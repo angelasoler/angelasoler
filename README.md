@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=angelasoler&theme=blue-green">
 </p>
 
-<h2>
+<h2 align="center">
 	🌱 Cadet at 42 sp school
 	
 </h2>
@@ -64,7 +64,7 @@
   	
 	-> Sorting algorithms 
   
-<h2>	
+<h2 align="center">	
   :atom: 42Basecamp 2022
 </h2>
 
@@ -78,7 +78,7 @@
 
 => [Shell and C lists developed in 42BaseCamp](https://github.com/angelasoler/BaseCamp42-2022) -> c and shell Intro
 
-<h2>
+<h2 align="center">
 :diamonds:Campus Coder
 
 </h2>	
@@ -98,7 +98,7 @@ Treina Dev 7 (Back-end TDD base on bootcamp)
      
    ==> [Personal Project](https://github.com/angelasoler/Tech_Freelance_Project) -> Search For Freelancers Platform
        
-<h2>
+<h2 align="center">
 	⚡Some interesting links for self taught education
 </h2>
 
