@@ -63,6 +63,12 @@
   [Push_swap](https://github.com/angelasoler/push_swap.git)
   	
 	-> Sorting algorithms 
+	
+	
+
+  [Minishell](https://github.com/angelasoler/mini_shell)
+  	
+	-> Literally I code a little shell
   
 <h2 align="center">	
   :atom: 42Basecamp 2022
