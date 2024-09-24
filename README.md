@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on Web, GenAI and Hardware projects
-- 🌱 I’m currently learning data science for better understanding of language models
+- 🌱 I’m currently learning data science and machine learning for better understanding of language models
 - 📫 How to reach me: https://www.linkedin.com/in/angela-soler-caro/
 
 <p align="center">
