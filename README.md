@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-	 💻 software engineer, common core graduated at 42sp
+	 💻 software engineer by 42sp
 	
 </h2>
 
