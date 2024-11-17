@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-	🌱 Cadet at 42 sp school
+	 💻 software engineer, common core graduated at 42sp
 	
 </h2>
 
